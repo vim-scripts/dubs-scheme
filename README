@@ -3,3 +3,7 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4468
 This scheme is intended to help software developers to focus on the actual work and not on the elements of the programming languages.
 
 Tested on different systems, most extensively on MS.
+
+Later version is tested with older VIM versions, too.
+
+Inspired by the music of Tangerine Dream.
